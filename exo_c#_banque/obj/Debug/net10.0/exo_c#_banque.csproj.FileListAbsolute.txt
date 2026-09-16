@@ -1,0 +1,15 @@
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.AssemblyInfoInputs.cache
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.AssemblyInfo.cs
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.csproj.CoreCompileInputs.cache
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.sourcelink.json
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/bin/Debug/net10.0/exo_c#_banque
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/bin/Debug/net10.0/exo_c#_banque.deps.json
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/bin/Debug/net10.0/exo_c#_banque.runtimeconfig.json
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/bin/Debug/net10.0/exo_c#_banque.dll
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/bin/Debug/net10.0/exo_c#_banque.pdb
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.dll
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/refint/exo_c#_banque.dll
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.pdb
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/exo_c#_banque.genruntimeconfig.cache
+/Users/logercassandra/github/sio2_exo/exo_c#_banque/obj/Debug/net10.0/ref/exo_c#_banque.dll
