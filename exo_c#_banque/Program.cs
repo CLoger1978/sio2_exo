@@ -31,7 +31,7 @@ else
 return solde;  
 }
 
- decimal credit_new = Crediter(1000m , 2000m);
+ decimal credit_new = Crediter(solde, 2m);
 
 static decimal Debiter(decimal montant, decimal solde)
 {
@@ -51,5 +51,19 @@ Console.WriteLine("fond insufissant");
 return solde;  
 }
 
- decimal debit_new = Debiter(1000m , 2000m);
+ decimal debit_new = Debiter(solde , 2m);
 Console.WriteLine("Hello, World!");
+  
+   var compte = new Compte();
+ {
+ compte.Numero = "0001";
+    compte.Titulaire = "Claude";
+    compte.solde = 2000m;
+ }
+var compte_1 = new Compte();
+{
+    compte.Numero ="0002";
+    compte.Titulaire = "Clara";
+    compte.solde = 1900m;
+}
+
