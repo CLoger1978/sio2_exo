@@ -13,7 +13,17 @@
         Titulaire = "Cassandra";
         solde = 2000m;
     }
- }
+public void Crediter(decimal montant)
+{
+ solde=montant+ solde;
+}
+public void Debiter(decimal montant)
+{
+ solde=montant- solde;
+}
+}
+
+
 
 
     

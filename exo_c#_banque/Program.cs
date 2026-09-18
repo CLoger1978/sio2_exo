@@ -18,7 +18,7 @@ else if (montant < 0)
 } 
 Console.WriteLine($"Solde: {solde}");
 
-static decimal Crediter(decimal montant, decimal solde)
+/*static decimal Crediter(decimal montant, decimal solde)
 {
 if (montant > 0)
 {
@@ -30,8 +30,6 @@ else
 } 
 return solde;  
 }
-
- decimal credit_new = Crediter(solde, 2m);
 
 static decimal Debiter(decimal montant, decimal solde)
 {
@@ -49,9 +47,8 @@ else
 Console.WriteLine("fond insufissant");
 }
 return solde;  
-}
+}*/
 
- decimal debit_new = Debiter(solde , 2m);
 Console.WriteLine("Hello, World!");
   
    var compte = new Compte();
@@ -59,11 +56,18 @@ Console.WriteLine("Hello, World!");
  compte.Numero = "0001";
     compte.Titulaire = "Claude";
     compte.solde = 2000m;
+    compte.Debiter(1000m);
  }
 var compte_1 = new Compte();
 {
     compte.Numero ="0002";
     compte.Titulaire = "Clara";
     compte.solde = 1900m;
+    compte.Crediter(100m);
 }
+
+
+  
+
+
 
