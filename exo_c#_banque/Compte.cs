@@ -5,22 +5,14 @@
 
     public string Titulaire {get; set;}
     
-    public decimal solde {get; private set;}
-
-    public Compte()
+    public Compte( string numero, string titulaire)
     {
-        Numero = "0";
-        Titulaire = "Cassandra";
-        solde = 2000m;
+        Numero = numero;
+        Titulaire = titulaire;
     }
-public void Crediter(decimal montant)
-{
- solde=montant+ solde;
-}
-public void Debiter(decimal montant)
-{
- solde=montant- solde;
-}
+    
+    
+    
 }
 
 
