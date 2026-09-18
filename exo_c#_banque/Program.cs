@@ -21,6 +21,7 @@ Console.WriteLine($"Solde: {solde}");
 Console.WriteLine("Hello, World!");
   
    var compte = new Compte("FR001", "Alice");
+   var compte1 = new Compte("FR002", "Bob",500m);
 
 
 
