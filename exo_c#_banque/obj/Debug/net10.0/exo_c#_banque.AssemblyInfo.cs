@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exo_c#_banque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a82289f248d997ee0659fef986365bcfcee119e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b637a82defeb81b877c6c6ef0f29cdc1fa8c13f")]
 [assembly: System.Reflection.AssemblyProductAttribute("exo_c#_banque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exo_c#_banque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

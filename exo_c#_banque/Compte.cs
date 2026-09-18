@@ -5,7 +5,7 @@
 
     public string Titulaire {get; set;}
     
-    public decimal solde {get; set;}
+    public decimal solde {get; private set;}
 
     public Compte()
     {

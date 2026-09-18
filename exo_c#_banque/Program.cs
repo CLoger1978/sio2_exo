@@ -55,7 +55,7 @@ Console.WriteLine("Hello, World!");
  {
  compte.Numero = "0001";
     compte.Titulaire = "Claude";
-    compte.solde = 2000m;
+    compte.solde = 1_000_000m;
     compte.Debiter(1000m);
  }
 var compte_1 = new Compte();
